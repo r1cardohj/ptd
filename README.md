@@ -16,7 +16,8 @@ the real todo list for this project:
 
 ```shell
 git clone https://github.com/r1cardohj/ptd.git
-pip install --editable
+cd ptd
+pip install --editable .
 ```
 
 **initialize**
