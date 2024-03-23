@@ -1,8 +1,8 @@
 # PTD
 
-ptd is a python tiny command line todo list inspire by the *Silicon Valley* TV series.
+ptd is a tiny command line todo list inspire by the *Silicon Valley* TV series.
 
-it just a demo now, i will write it again by C.(hopefully) 
+it just a demo now, i will write it again by C(hopefully) 
 
 the real todo list for this project:
 
@@ -35,9 +35,7 @@ Please enter a deadline: 2024-03-23
 
 
 
-![pic1](E:\new\juan\img\pic1.jpg)
-
-***
+![pic1](./img/pic1.jpg)
 
 **Start a todo item**
 
@@ -50,7 +48,7 @@ ptd show
 
 
 
-![image-20240323152211120](C:\Users\houjun\AppData\Roaming\Typora\typora-user-images\image-20240323152211120.png)
+![image-20240323152211120](./img/pic2.png)
 
 **Done a todo item**
 
@@ -61,7 +59,7 @@ ptd show
 
 you will see the amazing green  haha...
 
-![image-20240323152307395](C:\Users\houjun\AppData\Roaming\Typora\typora-user-images\image-20240323152307395.png)
+![image-20240323152307395](./img/pic3.png)
 
 **Drop a todo item**
 
