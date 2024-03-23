@@ -1,6 +1,6 @@
 # PTD
 
-ptd is a tiny command line todo list inspire by the *Silicon Valley* TV series.
+ptd is a python tiny command line todo list inspire by the *Silicon Valley* TV series.
 
 it just a demo now, i will write it again by C(hopefully) 
 
@@ -32,8 +32,6 @@ ptd add
 Please enter a title: fix a bug
 Please enter a deadline: 2024-03-23
 ```
-
-
 
 ![pic1](./img/pic1.jpg)
 
