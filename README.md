@@ -35,7 +35,7 @@ Please enter a deadline: 2024-03-23
 
 
 
-![pic1](E:\new\juan\img\pic1.jpg)
+![pic1](https://github.com/r1cardohj/ptd/img/pic1.jpg)
 
 ***
 
@@ -50,7 +50,6 @@ ptd show
 
 
 
-![image-20240323152211120](C:\Users\houjun\AppData\Roaming\Typora\typora-user-images\image-20240323152211120.png)
 
 **Done a todo item**
 
@@ -61,7 +60,6 @@ ptd show
 
 you will see the amazing green  haha...
 
-![image-20240323152307395](C:\Users\houjun\AppData\Roaming\Typora\typora-user-images\image-20240323152307395.png)
 
 **Drop a todo item**
 
