@@ -74,20 +74,20 @@ def render_one_row(todo, in_progress, done):
         todo_title = f"{todo_text:^36}"
         click.echo(click.style(todo_title, bg='red'), nl=False)
     else:
-        click.echo(f'{' ':^36}', nl=False)
+        click.echo(f"{' ':^36}", nl=False)
     if in_progress:
         in_progress_text = f'({in_progress["id"]}){in_progress["title"]}'
         in_progress_title = f"{in_progress_text:^36}"
         click.echo(click.style(in_progress_title, bg='yellow'), nl=False)
     else:
-        click.echo(f'{' ':^36}', nl=False)
+        click.echo(f"{' ':^36}", nl=False)
 
     if done:
         done_text = f'({done["id"]}){done["title"]}'
         done_title = f"{done_text:^36}"
         click.echo(click.style(done_title, bg='green'))
     else:
-        click.echo(f'{' ':^36}')
+        click.echo(f"{' ':^36}")
 
 
 @cli.command()
@@ -95,9 +95,9 @@ def show():
     click.echo(click.style('-' * SPAN_WIDTH, fg='red'), nl=False)
     click.echo(click.style('-' * SPAN_WIDTH, fg='yellow'), nl=False)
     click.echo(click.style('-' * SPAN_WIDTH, fg='green'))
-    click.echo(click.style(f'{'todo':^36}', fg='red', bold=True), nl=False)
-    click.echo(click.style(f'{'in progress':^36}', fg='yellow', bold=True), nl=False)
-    click.echo(click.style(f'{'done':^36}', fg='green', bold=True))
+    click.echo(click.style(f"{'todo':^36}", fg='red', bold=True), nl=False)
+    click.echo(click.style(f'{"in progress":^36}', fg='yellow', bold=True), nl=False)
+    click.echo(click.style(f'{"done":^36}', fg='green', bold=True))
     render_items()
     click.echo(click.style('-' * SPAN_WIDTH, fg='red'), nl=False)
     click.echo(click.style('-' * SPAN_WIDTH, fg='yellow'), nl=False)
