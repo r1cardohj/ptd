@@ -35,7 +35,7 @@ Please enter a deadline: 2024-03-23
 
 
 
-![pic1](https://github.com/r1cardohj/ptd/img/pic1.jpg)
+![pic1]（.img/pic1.jpg)
 
 ***
 
